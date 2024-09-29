@@ -306,7 +306,7 @@ Brews that are part of a nation or group's PR/culture and were submitted by them
 |      Nara       |     Nara Pufferfish Wine     |         4         |   700013   |
 |      CCTT       |      CCTT Pumpkin Wine       |         3         |   700014   |
 |      Dirt       |          Dirt Wine           |         3         |   700015   |
-|      Pavia      |        Pavian Whiskey        |         4         |   700016   |
+|      Pavia      |        Pavian Wiskey         |         4         |   700016   |
 |     Fempire     |          Fembourbon          |         4         |   700017   |
 |     Griffin     |     Griffin Gold Whiskey     |         4         |   700018   |
 |      Nara       |        Nara no Uisuki        |         4         |   700019   |
@@ -522,7 +522,7 @@ or by way of donating a high amount to the server via patreon.
 | 67  |      Chlorine      |        200007        |
 | 68  |       Dough        |        200008        |
 | 69  |       Butter       |        200009        |
-| 70  |      Pornace       |        200010        |
+| 70  |      Pomace        |        200010        |
     
 ## List of Vanilla Ingredients.
 
