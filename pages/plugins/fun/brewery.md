@@ -40,7 +40,7 @@ As seen the small barrel, is 2x2 made from wooden stairs, with the sign placed o
 
 The large one is 4x4 and consist of a total of: 20 planks and 16 stairs of the same type of wood, 1 fence post for the tap, and 1 sign in exactly the configuration shown. When correctly made a message in chat will notify the player that they have successfully made a barrel. The large barrel has two empty blocks in the center- you can put anything you like here (like snitches!) or leave it completely empty.
 
-Knowing when and how long to age a brew for is found out by experimentation through trail and error. (1 year of aging is equal to 1 Minecraft day or 20 minutes real time)
+Knowing when and how long to age a brew for is found out by experimentation through trial and error. (1 year of aging is equal to 1 Minecraft day or 20 minutes real time)
 
 *Note that barrels can be any type of wood, and that the wood type used can matter to the brew put inside to age. 
 
@@ -49,7 +49,7 @@ Don't forget this critical step if you're planning to sell your brews! Sealing y
 
 ![Sealing table crafting recipe](./media/Sealingtable.png)
 
-Just place it down, and put your finished brews in it;s crafting grid for a second or 2. The brew is sealed when there are [brackets] surrounding the stars in the lore. 
+Just place it down, and put your finished brews in its crafting grid for a second or 2. The brew is sealed when there are [brackets] surrounding the stars in the lore. 
 
 ## Starter Brews
 Below are some simple recipes to help you get started in your brewing career. Some may require custom ingredients you'll have to discover first however.
